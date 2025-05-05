@@ -1,0 +1,10 @@
+services:
+  web-ui:
+    environment:
+      - ADMIN_USERNAME=admin
+      - ADMIN_PASSWORD=password
+      - BROWSER_USE_HOST=browser-use-webui
+      - BROWSER_USE_PORT=7788
+      - VNC_HOST=browser-use-webui
+      - VNC_PORT=6080
+      - VNC_PASSWORD=vncpassword 
