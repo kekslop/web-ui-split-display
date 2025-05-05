@@ -4,6 +4,8 @@
 
 # Улучшенный веб-интерфейс для Browser Agent
 
+#ФОРК ОФФ РЕПО https://github.com/browser-use/web-ui
+
 ## Скриншоты интерфейса
 
 <div align="center">
